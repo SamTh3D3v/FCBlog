@@ -1,0 +1,18 @@
+{
+	"category" : "FCBlog",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"title",
+		"text",
+		"date",
+		"category",
+		"visible" ],
+	"name" : "FCPost",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
