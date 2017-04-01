@@ -1,0 +1,14 @@
+{
+	"category" : "FCBlog",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "ElhamerOussama 4/2/2017 00:29",
+	"instvars" : [
+		 ],
+	"name" : "FCBlogTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }
