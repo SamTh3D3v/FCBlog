@@ -1,0 +1,3 @@
+action
+isVisible
+ self visible
