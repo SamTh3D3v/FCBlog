@@ -1,0 +1,18 @@
+{
+	"category" : "FCBlog",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "ElhamerOussama 4/1/2017 16:43",
+	"instvars" : [
+		"title",
+		"text",
+		"date",
+		"category",
+		"visibl" ],
+	"name" : "FCPost",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
