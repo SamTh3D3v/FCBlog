@@ -1,3 +1,3 @@
-initialize
+constants
 unclassifiedTag
  ^ 'Unclassified'

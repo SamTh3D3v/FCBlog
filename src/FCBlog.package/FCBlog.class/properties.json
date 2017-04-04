@@ -1,0 +1,14 @@
+{
+	"category" : "FCBlog",
+	"classinstvars" : [
+		"uniqueInstance" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "ElhamerOussama 4/2/2017 00:39",
+	"instvars" : [
+		"posts" ],
+	"name" : "FCBlog",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

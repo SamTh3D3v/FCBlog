@@ -1,0 +1,1 @@
+I am a class that hold a reference to all the posts.

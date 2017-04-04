@@ -1,3 +1,3 @@
-action
+visibility
 beUnVisible
  self visible: false

@@ -1,0 +1,3 @@
+operations
+removeAllPosts
+	self allBlogPosts removeAll

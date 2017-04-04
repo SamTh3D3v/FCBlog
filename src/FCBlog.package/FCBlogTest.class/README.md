@@ -1,1 +1,1 @@
-I am a testing class
+I am a class that hold several unitTests.

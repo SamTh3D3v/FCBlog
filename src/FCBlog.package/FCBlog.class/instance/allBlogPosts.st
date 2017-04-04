@@ -1,0 +1,3 @@
+accesing
+allBlogPosts
+   ^ posts
